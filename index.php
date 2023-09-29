@@ -10,9 +10,9 @@ if (is_numeric($num1)) {
     
         echo "È maior que 100.";
     } else {
-        echo "Não é maior que 100.";
+        echo "($result)Não é maior que 100.";
     }
 } else {
-    echo "A variável não é um número.";
+    echo "($result)A variável não é um número.";
 }
 ?>
